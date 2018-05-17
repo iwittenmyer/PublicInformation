@@ -74,7 +74,7 @@ define({
     //Enter the url to your organizations bing maps key if you want to use bing basemaps
     "bingmapskey": "",
     //Defaults to arcgis.com. Set this value to your portal or organization host name.
-    "sharinghost": "https://www.arcgis.com",
+    "sharinghost": "https://devext.arcgis.com",
     "units": null,
     "helperServices": {
         "geometry": {
